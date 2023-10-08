@@ -1,0 +1,13 @@
+from turtle import *
+shape('turtle')
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(90)
+fd(100)
+rt(45)
+fd(71)
+rt(90)
+fd(71)
